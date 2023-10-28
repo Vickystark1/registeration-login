@@ -110,7 +110,7 @@ export default function LoginPage (){
                             </div>
                             <div className="clearfix"></div>
                             <div className="form-group">
-                            Create new account ? Please <Link  to="/register">Register</Link>
+                            Create new account ? Please <Link  to="/">Register</Link>
                             </div>
                             </form>
                         </div>
